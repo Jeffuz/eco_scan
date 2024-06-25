@@ -1,10 +1,9 @@
-import './App.css'
 
 function App() {
 
   return (
     <>
-      <p>nice</p>
+      <p>test</p>
     </>
   )
 }
